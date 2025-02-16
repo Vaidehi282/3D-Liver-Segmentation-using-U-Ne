@@ -34,3 +34,9 @@ The final output of the model consists of segmented liver regions, which can be 
 ---
 
 This repository automates the entire process from converting data to DICOM format, preprocessing, training the U-Net model, and obtaining segmentation results.
+
+## 7. Segmentation Results
+Below is an example of the liver segmentation results from the trained U-Net model:
+
+![Segmentation Result](liver_segment.png)
+
